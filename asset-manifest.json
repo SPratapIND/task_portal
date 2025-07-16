@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/task_portal/static/js/main.fcad7b7b.js",
+    "index.html": "/task_portal/index.html",
+    "main.fcad7b7b.js.map": "/task_portal/static/js/main.fcad7b7b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fcad7b7b.js"
+  ]
+}
